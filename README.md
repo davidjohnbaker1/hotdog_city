@@ -9,3 +9,4 @@ This is our hot dog enterprise!!
 * [ ] Get ketchup for non-Chicago customers
 * [ ] Convince congress to make it a rule to sell hot dog buns in same number as hot dogs so there is not excess waste
 * [ ] Do some market reseach!
+* [X] Teach class about Git
